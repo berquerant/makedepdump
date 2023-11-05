@@ -1,0 +1,2 @@
+single:
+	echo single
